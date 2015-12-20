@@ -3,5 +3,5 @@ package first;
 /**
  * Created by Дима on 20.12.2015.
  */
-public class ImageFile {
+public class ImageFile extends File {
 }
